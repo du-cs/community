@@ -8,7 +8,7 @@ Feel free to ask anything on group, everyone here are mostly students
 
 
 <hr>
-
+<br>
 
 
 ### GROUP RULES:
@@ -26,7 +26,8 @@ Welcome to the group :)
 
 <hr>
 
-
+<br>
+<br>
 
 ### Intoduction
 A group for all computer science graduates of delhi(+NCR) for sharing information, tips, events, techfest, hackathons, technologies and help each other. 
@@ -45,6 +46,9 @@ Use and follow hashtag #DU_CS on social media to connect.
 
 <hr>
 
+<br>
+<br>
+
 ### Important links:
 
 **A guide for CS freshers**-
@@ -53,17 +57,18 @@ https://github.com/parthyadav3105/csfreshers
 **Share your work/project on our social media handle**
 https://github.com/du-cs/proposals
 
+<br>
 
 Internship list by Tapasweni Pathak -
 https://github.com/tapaswenipathak/Open-Source-Internships
 
-
+<br>
 
 #### Telegram channels: 
   1. [Tech Events](https://t.me/GlobalTechEvents)
   2. [Tech Jobs](https://t.me/technicaljobs)
 
-
+<br>
 
 #### Telegram groups:
 
@@ -87,8 +92,12 @@ https://github.com/tapaswenipathak/Open-Source-Internships
 
   10. [Hackathons](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup)
 
+<br>
 **Open an issue to update this list.**
 
 <hr>
+
+<br>
+<br>
 
 
