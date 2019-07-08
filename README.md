@@ -51,6 +51,8 @@ Use and follow hashtag #DU_CS on social media to connect.
 
 ### Important links:
 
+<br>
+
 **A guide for CS freshers**-
 https://github.com/parthyadav3105/csfreshers
 
