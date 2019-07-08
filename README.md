@@ -28,13 +28,13 @@ A group for all computer science graduates of delhi(+NCR) for sharing informatio
 (Please ask your college's CS dept. president to contact us if your college is not there in below list)
 Primary maintained and controlled by Delhi University students. (15 colleges as of March 17)
 
-Telegram group join link: https://t.me/du_cs
+Telegram group join link: [t.me/du_cs](https://t.me/du_cs)
 
-Insta handle: https://instagram.com/du_cs_
+Insta handle: [@du_cs_](https://instagram.com/du_cs_)
 
-Twitter handle: https://twitter.com/du_cs_
+Twitter handle: [@du_cs_](https://twitter.com/du_cs_)
 
-Github handle: https://github.com/du-cs
+Github handle: [@du-cs](https://github.com/du-cs)
 
 Use and follow hashtag #DU_CS on social media to connect.
 
