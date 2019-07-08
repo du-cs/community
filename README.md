@@ -4,12 +4,14 @@ This is a general group for all computer science graduates of delhi(+NCR) for sh
 
 Feel free to ask anything on group, everyone here are mostly students
 
-Created on: 6th Feb 2018
-
-_________________
+*Created on: 6th Feb 2018*
 
 
-GROUP RULES:
+<hr>
+
+
+
+### GROUP RULES:
 
 Read this if you don't want to be banned.
 
@@ -21,7 +23,10 @@ Read this if you don't want to be banned.
 
 Welcome to the group :)
 
+
 <hr>
+
+
 
 ### Intoduction
 A group for all computer science graduates of delhi(+NCR) for sharing information, tips, events, techfest, hackathons, technologies and help each other. 
@@ -42,41 +47,45 @@ Use and follow hashtag #DU_CS on social media to connect.
 
 ### Important links:
 
+**A guide for CS freshers**-
+https://github.com/parthyadav3105/csfreshers
+
+**Share your work/project on our social media handle**
+https://github.com/du-cs/proposals
+
 
 Internship list by Tapasweni Pathak -
 https://github.com/tapaswenipathak/Open-Source-Internships
 
-A guide for CS freshers-
-https://github.com/parthyadav3105/csfreshers
 
-Share your work/project on our social media handle
-https://github.com/du-cs/proposals
 
-Telegram channels: 
-1. [Tech Events](https://t.me/GlobalTechEvents)
-2. [Tech Jobs](https://t.me/technicaljobs)
+#### Telegram channels: 
+  1. [Tech Events](https://t.me/GlobalTechEvents)
+  2. [Tech Jobs](https://t.me/technicaljobs)
 
-Telegram groups:
 
-1. (ILUG-D India Linux Users Group Delhi) get join link from website https://www.linuxdelhi.org/
 
-2. [Pydata Delhi](https://t.me/joinchat/B71pNUGrUQ7QHuyUJq-Ajg)
+#### Telegram groups:
 
-3. [Docker & Kubernetes Delhi NCR](https://t.me/DockerDelhiNCR)
+  1. (ILUG-D India Linux Users Group Delhi) get join link from website https://www.linuxdelhi.org/
 
-4. [IOTNCR](https://t.me/iotNCR)
+  2. [Pydata Delhi](https://t.me/joinchat/B71pNUGrUQ7QHuyUJq-Ajg)
 
-5. [Blockchain devs](https://t.me/Blockchain_Devs)
+  3. [Docker & Kubernetes Delhi NCR](https://t.me/DockerDelhiNCR)
 
-6. [Mozilla Delhi NCR](https://t.me/mozilladelhi)
+  4. [IOTNCR](https://t.me/iotNCR)
 
-7. [Distributed  Systems Delhi/NCR](https://t.me/Distributed_Systems)
+  5. [Blockchain devs](https://t.me/Blockchain_Devs)
 
-8. [Jslovers NCR](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ)
+  6. [Mozilla Delhi NCR](https://t.me/mozilladelhi)
 
-9. [Kaggle Delhi](https://t.me/kaggledelhi)
+  7. [Distributed  Systems Delhi/NCR](https://t.me/Distributed_Systems)
 
-10. [Hackathons](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup)
+  8. [Jslovers NCR](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ)
+
+  9. [Kaggle Delhi](https://t.me/kaggledelhi)
+
+  10. [Hackathons](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup)
 
 **Open an issue to update this list.**
 
