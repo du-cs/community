@@ -95,6 +95,7 @@ https://github.com/tapaswenipathak/Open-Source-Internships
   10. [Hackathons](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup)
 
 <br>
+
 **Open an issue to update this list.**
 
 <hr>
