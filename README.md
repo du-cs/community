@@ -49,6 +49,20 @@ Use and follow hashtag #DU_CS on social media to connect.
 <br>
 <br>
 
+### Admins
+
+ [du-cs/admins](https://github.com/du-cs/admins)
+
+<hr>
+<br>
+
+### Share your Research work/ Project
+
+ [du-cs/proposals](https://github.com/du-cs/proposals)
+
+<hr>
+<br>
+
 ### Important links:
 
 <br>
