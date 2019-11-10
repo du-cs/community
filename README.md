@@ -92,21 +92,17 @@ https://github.com/tapaswenipathak/Open-Source-Internships
 
   2. [Pydata Delhi](https://t.me/joinchat/B71pNUGrUQ7QHuyUJq-Ajg)
 
-  3. [Docker & Kubernetes Delhi NCR](https://t.me/DockerDelhiNCR)
+  3. [IOTNCR](https://t.me/iotNCR)
 
-  4. [IOTNCR](https://t.me/iotNCR)
+  4. [Blockchain devs](https://t.me/Blockchain_Devs)
 
-  5. [Blockchain devs](https://t.me/Blockchain_Devs)
+  5. [Mozilla Delhi NCR](https://t.me/mozilladelhi)
 
-  6. [Mozilla Delhi NCR](https://t.me/mozilladelhi)
+  6. [Distributed  Systems Delhi/NCR](https://t.me/Distributed_Systems)
 
-  7. [Distributed  Systems Delhi/NCR](https://t.me/Distributed_Systems)
+  7. [Jslovers NCR](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ)
 
-  8. [Jslovers NCR](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ)
-
-  9. [Kaggle Delhi](https://t.me/kaggledelhi)
-
-  10. [Hackathons](https://github.com/ayonroy2000/Hackathonistas_TelegramGroup)
+  8. [Kaggle Delhi](https://t.me/kaggledelhi)
 
 <br>
 
